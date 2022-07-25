@@ -1,5 +1,5 @@
 ---
-title: 🤖 Learn Robotics
+title: Libro de lectura II
 linkTitle: Learn Robotics
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'

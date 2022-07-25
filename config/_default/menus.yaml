@@ -7,20 +7,20 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Courses
+  - name: Cursos
     weight: 20
     identifier: courses
-  - name: Data science
+  - name: Español Moderno II
     PageRef: course/data-science/_index.md
     weight: 10
     parent: courses
-  - name: Robotics
+  - name: Libro de Lectura II
     PageRef: course/robotics/_index.md
     weight: 20
     parent: courses
-  - name: Blog
-    PageRef: post/_index.md
-    weight: 30
+  # - name: Blog
+  #  PageRef: post/_index.md
+  #  weight: 30
   - name: Contact
     PageRef: contact/index.md
     weight: 60

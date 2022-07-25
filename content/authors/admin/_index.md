@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Gang Yao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Profesor de ELE
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Beijing Foreign Studies University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
